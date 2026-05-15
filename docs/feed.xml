@@ -2,147 +2,147 @@
 <rss version="2.0"><channel>
   <title>awesome-ai-api — daily leaderboard</title>
   <link>https://mackding.github.io/awesome-ai-api/</link>
-  <description>Daily-refreshed leaderboard of AI API gateways. Updated: 2026-05-14 13:47 SGT.</description>
+  <description>Daily-refreshed leaderboard of AI API gateways. Updated: 2026-05-15 13:54 SGT.</description>
   <language>en</language>
-  <lastBuildDate>Thu, 14 May 2026 13:47:29 +0800</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 13:54:25 +0800</lastBuildDate>
   <item>
-    <title>#1 api.oneabc.org — score 9.9</title>
-    <link>https://api.oneabc.org</link>
-    <guid isPermaLink="false">awesome-ai-api:api-oneabc-org:2026-05-14</guid>
-    <description>Region: cn · API: verified · Engine: unknown · Latency: 236ms · Models: claude, gpt, gemini, chatgpt, openai</description>
-    <pubDate>Thu, 14 May 2026 13:47:29 +0800</pubDate>
-  </item>
-  <item>
-    <title>#2 老张API — score 9.9</title>
-    <link>https://api.laozhang.ai</link>
-    <guid isPermaLink="false">awesome-ai-api:api-laozhang-ai:2026-05-14</guid>
-    <description>Region: cn · API: verified · Engine: unknown · Latency: 269ms · Models: claude, gpt, gemini, grok</description>
-    <pubDate>Thu, 14 May 2026 13:47:29 +0800</pubDate>
-  </item>
-  <item>
-    <title>#3 Avian — score 9.9</title>
-    <link>https://avian.io</link>
-    <guid isPermaLink="false">awesome-ai-api:avian-io:2026-05-14</guid>
-    <description>Region: global · API: verified · Engine: unknown · Latency: 278ms · Models: claude, gpt, anthropic, openai, deepseek</description>
-    <pubDate>Thu, 14 May 2026 13:47:29 +0800</pubDate>
-  </item>
-  <item>
-    <title>#4 api.vveai.com — score 9.9</title>
-    <link>https://api.vveai.com</link>
-    <guid isPermaLink="false">awesome-ai-api:api-vveai-com:2026-05-14</guid>
-    <description>Region: cn · API: verified · Engine: unknown · Latency: 298ms · Models: claude, gpt, gemini, chatgpt, openai</description>
-    <pubDate>Thu, 14 May 2026 13:47:29 +0800</pubDate>
-  </item>
-  <item>
-    <title>#5 api.v3.cm — score 9.9</title>
+    <title>#1 api.v3.cm — score 9.9</title>
     <link>https://api.v3.cm</link>
-    <guid isPermaLink="false">awesome-ai-api:api-v3-cm:2026-05-14</guid>
-    <description>Region: cn · API: verified · Engine: unknown · Latency: 300ms · Models: claude, gpt, gemini, chatgpt, openai</description>
-    <pubDate>Thu, 14 May 2026 13:47:29 +0800</pubDate>
+    <guid isPermaLink="false">awesome-ai-api:api-v3-cm:2026-05-15</guid>
+    <description>Region: cn · API: verified · Engine: unknown · Latency: 87ms · Models: claude, gpt, gemini, chatgpt, openai</description>
+    <pubDate>Fri, 15 May 2026 13:54:25 +0800</pubDate>
   </item>
   <item>
-    <title>#6 api.gpt.ge — score 9.9</title>
-    <link>https://api.gpt.ge</link>
-    <guid isPermaLink="false">awesome-ai-api:api-gpt-ge:2026-05-14</guid>
-    <description>Region: cn · API: verified · Engine: unknown · Latency: 307ms · Models: claude, gpt, gemini, chatgpt, openai</description>
-    <pubDate>Thu, 14 May 2026 13:47:29 +0800</pubDate>
-  </item>
-  <item>
-    <title>#7 ClaudeCN — score 9.9</title>
-    <link>https://claudecn.top</link>
-    <guid isPermaLink="false">awesome-ai-api:claudecn-top:2026-05-14</guid>
-    <description>Region: cn · API: verified · Engine: unknown · Latency: 343ms · Models: claude, gpt, gemini, openai</description>
-    <pubDate>Thu, 14 May 2026 13:47:29 +0800</pubDate>
-  </item>
-  <item>
-    <title>#8 ePhone AI — score 9.9</title>
-    <link>https://api.ephone.ai</link>
-    <guid isPermaLink="false">awesome-ai-api:api-ephone-ai:2026-05-14</guid>
-    <description>Region: cn · API: verified · Engine: unknown · Latency: 368ms · Models: claude, gpt, gemini, openai, deepseek</description>
-    <pubDate>Thu, 14 May 2026 13:47:29 +0800</pubDate>
-  </item>
-  <item>
-    <title>#9 api.v36.cm — score 9.9</title>
-    <link>https://api.v36.cm</link>
-    <guid isPermaLink="false">awesome-ai-api:api-v36-cm:2026-05-14</guid>
-    <description>Region: cn · API: verified · Engine: unknown · Latency: 377ms · Models: claude, gpt, gemini, chatgpt, openai</description>
-    <pubDate>Thu, 14 May 2026 13:47:29 +0800</pubDate>
-  </item>
-  <item>
-    <title>#10 TiMi CC — score 9.9</title>
+    <title>#2 TiMi CC — score 9.9</title>
     <link>https://timicc.com</link>
-    <guid isPermaLink="false">awesome-ai-api:timicc-com:2026-05-14</guid>
-    <description>Region: global · API: verified · Engine: unknown · Latency: 447ms · Models: gpt, qwen</description>
-    <pubDate>Thu, 14 May 2026 13:47:29 +0800</pubDate>
+    <guid isPermaLink="false">awesome-ai-api:timicc-com:2026-05-15</guid>
+    <description>Region: global · API: verified · Engine: unknown · Latency: 101ms · Models: gpt, qwen</description>
+    <pubDate>Fri, 15 May 2026 13:54:25 +0800</pubDate>
   </item>
   <item>
-    <title>#11 PackyAPI (PackyCode) — score 9.9</title>
+    <title>#3 api.vveai.com — score 9.9</title>
+    <link>https://api.vveai.com</link>
+    <guid isPermaLink="false">awesome-ai-api:api-vveai-com:2026-05-15</guid>
+    <description>Region: cn · API: verified · Engine: unknown · Latency: 108ms · Models: claude, gpt, gemini, chatgpt, openai</description>
+    <pubDate>Fri, 15 May 2026 13:54:25 +0800</pubDate>
+  </item>
+  <item>
+    <title>#4 ePhone AI — score 9.9</title>
+    <link>https://api.ephone.ai</link>
+    <guid isPermaLink="false">awesome-ai-api:api-ephone-ai:2026-05-15</guid>
+    <description>Region: cn · API: verified · Engine: unknown · Latency: 118ms · Models: claude, gpt, gemini, openai, deepseek</description>
+    <pubDate>Fri, 15 May 2026 13:54:25 +0800</pubDate>
+  </item>
+  <item>
+    <title>#5 PackyAPI (PackyCode) — score 9.9</title>
     <link>https://www.packyapi.com</link>
-    <guid isPermaLink="false">awesome-ai-api:packyapi-com:2026-05-14</guid>
-    <description>Region: cn · API: verified · Engine: unknown · Latency: 451ms · Models: claude, gpt, gemini, openai</description>
-    <pubDate>Thu, 14 May 2026 13:47:29 +0800</pubDate>
+    <guid isPermaLink="false">awesome-ai-api:packyapi-com:2026-05-15</guid>
+    <description>Region: cn · API: verified · Engine: unknown · Latency: 122ms · Models: claude, gpt, gemini, openai</description>
+    <pubDate>Fri, 15 May 2026 13:54:25 +0800</pubDate>
   </item>
   <item>
-    <title>#12 毫秒API MJ gpt claude AI luma deepseek 中转 AI中转 chatgpt中转 claud — score 9.9</title>
-    <link>https://api.holdai.top</link>
-    <guid isPermaLink="false">awesome-ai-api:api-holdai-top:2026-05-14</guid>
-    <description>Region: cn · API: verified · Engine: unknown · Latency: 467ms · Models: claude, gpt, chatgpt, openai, deepseek</description>
-    <pubDate>Thu, 14 May 2026 13:47:29 +0800</pubDate>
+    <title>#6 老张API — score 9.9</title>
+    <link>https://api.laozhang.ai</link>
+    <guid isPermaLink="false">awesome-ai-api:api-laozhang-ai:2026-05-15</guid>
+    <description>Region: cn · API: verified · Engine: unknown · Latency: 128ms · Models: claude, gpt, gemini, grok</description>
+    <pubDate>Fri, 15 May 2026 13:54:25 +0800</pubDate>
   </item>
   <item>
-    <title>#13 AIHubMix — score 9.9</title>
-    <link>https://aihubmix.com</link>
-    <guid isPermaLink="false">awesome-ai-api:aihubmix-com:2026-05-14</guid>
-    <description>Region: global · API: verified · Engine: openrouter · Latency: 499ms · Models: claude, gpt, gemini, chatgpt, openai</description>
-    <pubDate>Thu, 14 May 2026 13:47:29 +0800</pubDate>
+    <title>#7 api.v36.cm — score 9.9</title>
+    <link>https://api.v36.cm</link>
+    <guid isPermaLink="false">awesome-ai-api:api-v36-cm:2026-05-15</guid>
+    <description>Region: cn · API: verified · Engine: unknown · Latency: 133ms · Models: claude, gpt, gemini, chatgpt, openai</description>
+    <pubDate>Fri, 15 May 2026 13:54:25 +0800</pubDate>
   </item>
   <item>
-    <title>#14 AnyRouter — score 9.9</title>
-    <link>https://anyrouter.dev</link>
-    <guid isPermaLink="false">awesome-ai-api:anyrouter-dev:2026-05-14</guid>
-    <description>Region: global · API: verified · Engine: one-api · Latency: 500ms · Models: gemini, anthropic, openai, qwen</description>
-    <pubDate>Thu, 14 May 2026 13:47:29 +0800</pubDate>
+    <title>#8 ClaudeCN — score 9.9</title>
+    <link>https://claudecn.top</link>
+    <guid isPermaLink="false">awesome-ai-api:claudecn-top:2026-05-15</guid>
+    <description>Region: cn · API: verified · Engine: unknown · Latency: 133ms · Models: claude, gpt, gemini, openai</description>
+    <pubDate>Fri, 15 May 2026 13:54:25 +0800</pubDate>
   </item>
   <item>
-    <title>#15 apipro.maynor1024.live — score 9.9</title>
+    <title>#9 api.gpt.ge — score 9.9</title>
+    <link>https://api.gpt.ge</link>
+    <guid isPermaLink="false">awesome-ai-api:api-gpt-ge:2026-05-15</guid>
+    <description>Region: cn · API: verified · Engine: unknown · Latency: 135ms · Models: claude, gpt, gemini, chatgpt, openai</description>
+    <pubDate>Fri, 15 May 2026 13:54:25 +0800</pubDate>
+  </item>
+  <item>
+    <title>#10 apipro.maynor1024.live — score 9.9</title>
     <link>https://apipro.maynor1024.live</link>
-    <guid isPermaLink="false">awesome-ai-api:apipro-maynor1024-live:2026-05-14</guid>
-    <description>Region: cn · API: verified · Engine: unknown · Latency: 893ms · Models: claude, gpt, gemini, openai, grok</description>
-    <pubDate>Thu, 14 May 2026 13:47:29 +0800</pubDate>
+    <guid isPermaLink="false">awesome-ai-api:apipro-maynor1024-live:2026-05-15</guid>
+    <description>Region: cn · API: verified · Engine: unknown · Latency: 353ms · Models: claude, gpt, gemini, openai, grok</description>
+    <pubDate>Fri, 15 May 2026 13:54:25 +0800</pubDate>
   </item>
   <item>
-    <title>#16 api-gptgod-work — score 9.9</title>
+    <title>#11 AIHubMix — score 9.9</title>
+    <link>https://aihubmix.com</link>
+    <guid isPermaLink="false">awesome-ai-api:aihubmix-com:2026-05-15</guid>
+    <description>Region: global · API: verified · Engine: openrouter · Latency: 396ms · Models: claude, gpt, gemini, chatgpt, openai</description>
+    <pubDate>Fri, 15 May 2026 13:54:25 +0800</pubDate>
+  </item>
+  <item>
+    <title>#12 api-gptgod-work — score 9.9</title>
     <link>https://api.gptgod.work</link>
-    <guid isPermaLink="false">awesome-ai-api:api-gptgod-work:2026-05-14</guid>
-    <description>Region: global · API: verified · Engine: unknown · Latency: 902ms · Models: -</description>
-    <pubDate>Thu, 14 May 2026 13:47:29 +0800</pubDate>
+    <guid isPermaLink="false">awesome-ai-api:api-gptgod-work:2026-05-15</guid>
+    <description>Region: global · API: verified · Engine: unknown · Latency: 417ms · Models: -</description>
+    <pubDate>Fri, 15 May 2026 13:54:25 +0800</pubDate>
   </item>
   <item>
-    <title>#17 jeniya.cn — score 9.9</title>
-    <link>https://jeniya.cn</link>
-    <guid isPermaLink="false">awesome-ai-api:jeniya-cn:2026-05-14</guid>
-    <description>Region: cn · API: verified · Engine: unknown · Latency: 922ms · Models: claude, gpt, chatgpt, openai, deepseek</description>
-    <pubDate>Thu, 14 May 2026 13:47:29 +0800</pubDate>
+    <title>#13 毫秒API MJ gpt claude AI luma deepseek 中转 AI中转 chatgpt中转 claud — score 9.9</title>
+    <link>https://api.holdai.top</link>
+    <guid isPermaLink="false">awesome-ai-api:api-holdai-top:2026-05-15</guid>
+    <description>Region: cn · API: verified · Engine: unknown · Latency: 435ms · Models: claude, gpt, chatgpt, openai, deepseek</description>
+    <pubDate>Fri, 15 May 2026 13:54:25 +0800</pubDate>
   </item>
   <item>
-    <title>#18 便携AI聚合API — score 9.9</title>
+    <title>#14 Avian — score 9.9</title>
+    <link>https://avian.io</link>
+    <guid isPermaLink="false">awesome-ai-api:avian-io:2026-05-15</guid>
+    <description>Region: global · API: verified · Engine: unknown · Latency: 472ms · Models: claude, gpt, anthropic, openai, deepseek</description>
+    <pubDate>Fri, 15 May 2026 13:54:25 +0800</pubDate>
+  </item>
+  <item>
+    <title>#15 api.oneabc.org — score 9.9</title>
+    <link>https://api.oneabc.org</link>
+    <guid isPermaLink="false">awesome-ai-api:api-oneabc-org:2026-05-15</guid>
+    <description>Region: cn · API: verified · Engine: unknown · Latency: 759ms · Models: claude, gpt, gemini, chatgpt, openai</description>
+    <pubDate>Fri, 15 May 2026 13:54:25 +0800</pubDate>
+  </item>
+  <item>
+    <title>#16 Home — AnyRouter — score 9.9</title>
+    <link>https://anyrouter.dev</link>
+    <guid isPermaLink="false">awesome-ai-api:anyrouter-dev:2026-05-15</guid>
+    <description>Region: global · API: verified · Engine: one-api · Latency: 814ms · Models: gpt, gemini, anthropic, openai, deepseek</description>
+    <pubDate>Fri, 15 May 2026 13:54:25 +0800</pubDate>
+  </item>
+  <item>
+    <title>#17 便携AI聚合API — score 9.9</title>
     <link>https://api.bianxieai.com</link>
-    <guid isPermaLink="false">awesome-ai-api:api-bianxieai-com:2026-05-14</guid>
-    <description>Region: cn · API: verified · Engine: new-api · Latency: 1372ms · Models: claude, gemini, openai, deepseek, qwen</description>
-    <pubDate>Thu, 14 May 2026 13:47:29 +0800</pubDate>
+    <guid isPermaLink="false">awesome-ai-api:api-bianxieai-com:2026-05-15</guid>
+    <description>Region: cn · API: verified · Engine: new-api · Latency: 1063ms · Models: claude, gemini, openai, deepseek, qwen</description>
+    <pubDate>Fri, 15 May 2026 13:54:25 +0800</pubDate>
   </item>
   <item>
-    <title>#19 Doro AI — score 9.9</title>
-    <link>https://doro.lol</link>
-    <guid isPermaLink="false">awesome-ai-api:doro-lol:2026-05-14</guid>
-    <description>Region: cn · API: verified · Engine: new-api · Latency: 1774ms · Models: claude, gpt, gemini, chatgpt, anthropic</description>
-    <pubDate>Thu, 14 May 2026 13:47:29 +0800</pubDate>
+    <title>#18 jeniya.cn — score 9.9</title>
+    <link>https://jeniya.cn</link>
+    <guid isPermaLink="false">awesome-ai-api:jeniya-cn:2026-05-15</guid>
+    <description>Region: cn · API: verified · Engine: unknown · Latency: 1188ms · Models: claude, gpt, chatgpt, openai, deepseek</description>
+    <pubDate>Fri, 15 May 2026 13:54:25 +0800</pubDate>
   </item>
   <item>
-    <title>#20 Claude Code/GPT/Gemini API 中转代理 — score 9.9</title>
+    <title>#19 Claude Code/GPT/Gemini API 中转代理 — score 9.9</title>
     <link>https://ai.tokencloud.ai</link>
-    <guid isPermaLink="false">awesome-ai-api:ai-tokencloud-ai:2026-05-14</guid>
-    <description>Region: cn · API: verified · Engine: unknown · Latency: 1822ms · Models: claude, gpt, gemini</description>
-    <pubDate>Thu, 14 May 2026 13:47:29 +0800</pubDate>
+    <guid isPermaLink="false">awesome-ai-api:ai-tokencloud-ai:2026-05-15</guid>
+    <description>Region: cn · API: verified · Engine: unknown · Latency: 1404ms · Models: claude, gpt, gemini</description>
+    <pubDate>Fri, 15 May 2026 13:54:25 +0800</pubDate>
+  </item>
+  <item>
+    <title>#20 Doro AI — score 9.9</title>
+    <link>https://doro.lol</link>
+    <guid isPermaLink="false">awesome-ai-api:doro-lol:2026-05-15</guid>
+    <description>Region: cn · API: verified · Engine: new-api · Latency: 1721ms · Models: claude, gpt, gemini, chatgpt, anthropic</description>
+    <pubDate>Fri, 15 May 2026 13:54:25 +0800</pubDate>
   </item>
 </channel></rss>
