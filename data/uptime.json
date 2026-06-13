@@ -1,29 +1,21 @@
 {
   "window_days": 30,
-  "updated": "2026-06-12",
+  "updated": "2026-06-13",
   "gateways": {
-    "https://api.oneabc.org": {
+    "https://api.v3.cm": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 424,
+      "avg_latency_ms": 318,
       "streak_days": 0
     },
-    "https://api.laozhang.ai": {
+    "https://timicc.com": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 220,
-      "streak_days": 0
-    },
-    "https://avian.io": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 339,
+      "avg_latency_ms": 257,
       "streak_days": 0
     },
     "https://api.vveai.com": {
@@ -31,50 +23,10 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 203,
-      "streak_days": 0
-    },
-    "https://api.v3.cm": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 297,
-      "streak_days": 0
-    },
-    "https://api.gpt.ge": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 300,
-      "streak_days": 0
-    },
-    "https://claudecn.top": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 893,
+      "avg_latency_ms": 204,
       "streak_days": 0
     },
     "https://api.ephone.ai": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 262,
-      "streak_days": 0
-    },
-    "https://api.v36.cm": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 255,
-      "streak_days": 0
-    },
-    "https://timicc.com": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
@@ -87,31 +39,39 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 201,
+      "avg_latency_ms": 192,
       "streak_days": 0
     },
-    "https://api.holdai.top": {
-      "samples": 28,
-      "window_days": 30,
-      "uptime_pct": 93.3,
-      "api_uptime_pct": 93.3,
-      "avg_latency_ms": 317,
-      "streak_days": 0
-    },
-    "https://aihubmix.com": {
+    "https://api.laozhang.ai": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 406,
+      "avg_latency_ms": 220,
       "streak_days": 0
     },
-    "https://anyrouter.dev": {
+    "https://api.v36.cm": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 532,
+      "avg_latency_ms": 256,
+      "streak_days": 0
+    },
+    "https://claudecn.top": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 900,
+      "streak_days": 0
+    },
+    "https://api.gpt.ge": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 305,
       "streak_days": 0
     },
     "https://apipro.maynor1024.live": {
@@ -119,7 +79,15 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 403,
+      "avg_latency_ms": 376,
+      "streak_days": 0
+    },
+    "https://aihubmix.com": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 402,
       "streak_days": 0
     },
     "https://api.gptgod.work": {
@@ -127,15 +95,39 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 637,
+      "avg_latency_ms": 626,
       "streak_days": 0
     },
-    "https://jeniya.cn": {
+    "https://api.holdai.top": {
+      "samples": 28,
+      "window_days": 30,
+      "uptime_pct": 93.3,
+      "api_uptime_pct": 93.3,
+      "avg_latency_ms": 310,
+      "streak_days": 0
+    },
+    "https://avian.io": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 827,
+      "avg_latency_ms": 331,
+      "streak_days": 0
+    },
+    "https://api.oneabc.org": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 431,
+      "streak_days": 0
+    },
+    "https://anyrouter.dev": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 522,
       "streak_days": 0
     },
     "https://api.bianxieai.com": {
@@ -143,15 +135,15 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 1735,
+      "avg_latency_ms": 1748,
       "streak_days": 0
     },
-    "https://doro.lol": {
-      "samples": 28,
+    "https://jeniya.cn": {
+      "samples": 29,
       "window_days": 30,
-      "uptime_pct": 93.3,
-      "api_uptime_pct": 93.3,
-      "avg_latency_ms": 2175,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 814,
       "streak_days": 0
     },
     "https://ai.tokencloud.ai": {
@@ -159,79 +151,23 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 1545,
+      "avg_latency_ms": 1539,
       "streak_days": 0
     },
-    "https://api.onechats.top": {
+    "https://doro.lol": {
+      "samples": 28,
+      "window_days": 30,
+      "uptime_pct": 93.3,
+      "api_uptime_pct": 93.3,
+      "avg_latency_ms": 2158,
+      "streak_days": 0
+    },
+    "https://api.dzzi.ai": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 287,
-      "streak_days": 0
-    },
-    "https://chatapi.onechats.top": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 338,
-      "streak_days": 0
-    },
-    "https://api.gueai.com": {
-      "samples": 5,
-      "window_days": 30,
-      "uptime_pct": 16.7,
-      "api_uptime_pct": 16.7,
-      "avg_latency_ms": 170,
-      "streak_days": 0
-    },
-    "https://onetoken.one": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 236,
-      "streak_days": 0
-    },
-    "https://aiberm.com": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 260,
-      "streak_days": 0
-    },
-    "https://aigcbest.top": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 253,
-      "streak_days": 0
-    },
-    "https://api.deerapi.com": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 206,
-      "streak_days": 0
-    },
-    "https://api.ekan8.com": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 221,
-      "streak_days": 0
-    },
-    "https://35.aigcbest.top": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 223,
+      "avg_latency_ms": 451,
       "streak_days": 0
     },
     "https://api.ifopen.ai": {
@@ -239,7 +175,151 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 247,
+      "avg_latency_ms": 259,
+      "streak_days": 0
+    },
+    "https://chatapi.onechats.top": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 335,
+      "streak_days": 0
+    },
+    "https://api.deerapi.com": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 207,
+      "streak_days": 0
+    },
+    "https://api.gueai.com": {
+      "samples": 4,
+      "window_days": 30,
+      "uptime_pct": 13.3,
+      "api_uptime_pct": 13.3,
+      "avg_latency_ms": 152,
+      "streak_days": 0
+    },
+    "https://api.ekan8.com": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 219,
+      "streak_days": 0
+    },
+    "https://api.onechats.top": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 286,
+      "streak_days": 0
+    },
+    "https://onetoken.one": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 238,
+      "streak_days": 0
+    },
+    "https://www.openclaudecode.cn": {
+      "samples": 2,
+      "window_days": 30,
+      "uptime_pct": 6.7,
+      "api_uptime_pct": 6.7,
+      "avg_latency_ms": 202,
+      "streak_days": 0
+    },
+    "https://api.gemai.cc": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 227,
+      "streak_days": 0
+    },
+    "https://aiberm.com": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 262,
+      "streak_days": 0
+    },
+    "https://aigcbest.top": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 257,
+      "streak_days": 0
+    },
+    "https://api.soruxgpt.com": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 361,
+      "streak_days": 0
+    },
+    "https://api.mnapi.com": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 427,
+      "streak_days": 0
+    },
+    "https://35.aigcbest.top": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 228,
+      "streak_days": 0
+    },
+    "https://api.openai-ch.top": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 383,
+      "streak_days": 0
+    },
+    "https://api.ikuncode.cc": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 350,
+      "streak_days": 0
+    },
+    "https://api.kissapi.ai": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 387,
+      "streak_days": 0
+    },
+    "https://api.bltcy.ai": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 569,
+      "streak_days": 0
+    },
+    "https://api.yuegle.com": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 322,
       "streak_days": 0
     },
     "https://cnapi.kksj.org": {
@@ -250,100 +330,12 @@
       "avg_latency_ms": 323,
       "streak_days": 0
     },
-    "https://api.gemai.cc": {
+    "https://azapi.com.cn": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 222,
-      "streak_days": 0
-    },
-    "https://www.openclaudecode.cn": {
-      "samples": 3,
-      "window_days": 30,
-      "uptime_pct": 10.0,
-      "api_uptime_pct": 10.0,
-      "avg_latency_ms": 240,
-      "streak_days": 0
-    },
-    "https://api.dzzi.ai": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 457,
-      "streak_days": 0
-    },
-    "https://api.openai-ch.top": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 384,
-      "streak_days": 0
-    },
-    "https://api.yuegle.com": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 329,
-      "streak_days": 0
-    },
-    "https://api.chatfire.cn": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 753,
-      "streak_days": 0
-    },
-    "https://apirouter.ai": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 561,
-      "streak_days": 0
-    },
-    "https://api.kissapi.ai": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 390,
-      "streak_days": 0
-    },
-    "https://api.cursorai.art": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 386,
-      "streak_days": 0
-    },
-    "https://api.mnapi.com": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 435,
-      "streak_days": 0
-    },
-    "https://api.ikuncode.cc": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 356,
-      "streak_days": 0
-    },
-    "https://api.soruxgpt.com": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 371,
+      "api_uptime_pct": 56.7,
+      "avg_latency_ms": 429,
       "streak_days": 0
     },
     "https://xcode.best": {
@@ -351,15 +343,15 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 784,
+      "avg_latency_ms": 788,
       "streak_days": 0
     },
-    "https://azapi.com.cn": {
+    "https://api.cursorai.art": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
-      "api_uptime_pct": 60.0,
-      "avg_latency_ms": 437,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 374,
       "streak_days": 0
     },
     "https://chintao.cn": {
@@ -367,79 +359,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 2064,
-      "streak_days": 0
-    },
-    "https://api.bltcy.ai": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 567,
-      "streak_days": 0
-    },
-    "https://api.bltcy.top": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 738,
-      "streak_days": 0
-    },
-    "https://terminal.pub": {
-      "samples": 26,
-      "window_days": 30,
-      "uptime_pct": 86.7,
-      "api_uptime_pct": 86.7,
-      "avg_latency_ms": 864,
-      "streak_days": 0
-    },
-    "https://api.whatai.cc": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 674,
-      "streak_days": 0
-    },
-    "https://www.duckcoding.ai": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 879,
-      "streak_days": 0
-    },
-    "https://chatfire.cn": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 86.7,
-      "avg_latency_ms": 1605,
-      "streak_days": 0
-    },
-    "https://api.996444.cn": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 822,
-      "streak_days": 0
-    },
-    "https://dawclaudecode.com": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 2439,
-      "streak_days": 0
-    },
-    "https://api.aipaibox.com": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 919,
+      "avg_latency_ms": 2082,
       "streak_days": 0
     },
     "https://duckcoding.com": {
@@ -447,7 +367,31 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 921,
+      "avg_latency_ms": 902,
+      "streak_days": 0
+    },
+    "https://api.whatai.cc": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 685,
+      "streak_days": 0
+    },
+    "https://api.chatfire.cn": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 752,
+      "streak_days": 0
+    },
+    "https://apirouter.ai": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 564,
       "streak_days": 0
     },
     "https://oneapi.paintbot.top": {
@@ -455,7 +399,47 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 1467,
+      "avg_latency_ms": 1466,
+      "streak_days": 0
+    },
+    "https://api.bltcy.top": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 761,
+      "streak_days": 0
+    },
+    "https://dawclaudecode.com": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 2444,
+      "streak_days": 0
+    },
+    "https://api.996444.cn": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 816,
+      "streak_days": 0
+    },
+    "https://api.aipaibox.com": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 93.3,
+      "avg_latency_ms": 912,
+      "streak_days": 0
+    },
+    "https://www.duckcoding.ai": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 877,
       "streak_days": 0
     },
     "https://www.ddshub.cc": {
@@ -463,7 +447,23 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 1493,
+      "avg_latency_ms": 1494,
+      "streak_days": 0
+    },
+    "https://chatfire.cn": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 86.7,
+      "avg_latency_ms": 1611,
+      "streak_days": 0
+    },
+    "https://terminal.pub": {
+      "samples": 26,
+      "window_days": 30,
+      "uptime_pct": 86.7,
+      "api_uptime_pct": 86.7,
+      "avg_latency_ms": 871,
       "streak_days": 0
     },
     "https://marting.pro": {
@@ -471,7 +471,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 277,
+      "avg_latency_ms": 285,
       "streak_days": 0
     },
     "https://api.nekoapi.com": {
@@ -479,7 +479,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 230,
+      "avg_latency_ms": 223,
       "streak_days": 0
     },
     "https://ai.comfly.chat": {
@@ -487,7 +487,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 848,
+      "avg_latency_ms": 874,
       "streak_days": 0
     },
     "https://api.302ai.cn": {
@@ -495,23 +495,23 @@
       "window_days": 30,
       "uptime_pct": 93.3,
       "api_uptime_pct": 93.3,
-      "avg_latency_ms": 2356,
+      "avg_latency_ms": 2370,
       "streak_days": 0
     },
-    "https://zen-ai.top": {
+    "https://oneapi.gptnb.ai": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 288,
+      "avg_latency_ms": 283,
       "streak_days": 0
     },
-    "https://www.ggwk1.online": {
+    "https://sparkcode.top": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 294,
+      "avg_latency_ms": 284,
       "streak_days": 0
     },
     "https://api.oaipro.com": {
@@ -522,28 +522,12 @@
       "avg_latency_ms": 249,
       "streak_days": 0
     },
-    "https://sparkcode.top": {
+    "https://www.ggwk1.online": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 286,
-      "streak_days": 0
-    },
-    "https://api.gpts.vin": {
-      "samples": 18,
-      "window_days": 30,
-      "uptime_pct": 60.0,
-      "api_uptime_pct": 60.0,
-      "avg_latency_ms": 524,
-      "streak_days": 0
-    },
-    "https://oneapi.gptnb.ai": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 276,
+      "avg_latency_ms": 300,
       "streak_days": 0
     },
     "https://api.aigcbest.top": {
@@ -551,15 +535,23 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 461,
+      "avg_latency_ms": 470,
       "streak_days": 0
     },
-    "https://api.timebackward.com": {
+    "https://api.gpts.vin": {
+      "samples": 17,
+      "window_days": 30,
+      "uptime_pct": 56.7,
+      "api_uptime_pct": 56.7,
+      "avg_latency_ms": 535,
+      "streak_days": 0
+    },
+    "https://zen-ai.top": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 997,
+      "avg_latency_ms": 283,
       "streak_days": 0
     },
     "https://unifiedapi.cloud": {
@@ -567,15 +559,15 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 671,
+      "avg_latency_ms": 672,
       "streak_days": 0
     },
-    "https://api.aabao.vip": {
+    "https://api.timebackward.com": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 776,
+      "avg_latency_ms": 1004,
       "streak_days": 0
     },
     "https://buzzai.cc": {
@@ -583,7 +575,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 2145,
+      "avg_latency_ms": 2131,
       "streak_days": 0
     },
     "https://api.mixrai.com": {
@@ -591,7 +583,15 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 949,
+      "avg_latency_ms": 964,
+      "streak_days": 0
+    },
+    "https://api.aabao.vip": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 791,
       "streak_days": 0
     },
     "https://api.chatanywhere.org": {
@@ -599,31 +599,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 192,
-      "streak_days": 0
-    },
-    "https://kfcv50.link": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 222,
-      "streak_days": 0
-    },
-    "https://api.gptsapi.net": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 207,
-      "streak_days": 0
-    },
-    "https://yunwu.ai": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 211,
+      "avg_latency_ms": 194,
       "streak_days": 0
     },
     "https://api.featherless.ai": {
@@ -631,7 +607,15 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 193,
+      "avg_latency_ms": 191,
+      "streak_days": 0
+    },
+    "https://kfcv50.link": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 227,
       "streak_days": 0
     },
     "https://www.openai-labs.com": {
@@ -639,7 +623,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 224,
+      "avg_latency_ms": 230,
       "streak_days": 0
     },
     "https://api.aabao.top": {
@@ -647,23 +631,23 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 291,
+      "avg_latency_ms": 288,
       "streak_days": 0
     },
-    "https://infai.cc": {
+    "https://api.gptsapi.net": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 730,
+      "avg_latency_ms": 209,
       "streak_days": 0
     },
-    "https://api.wlai.vip": {
+    "https://yunwu.ai": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 526,
+      "avg_latency_ms": 207,
       "streak_days": 0
     },
     "https://gptgod.cloud": {
@@ -671,7 +655,15 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 306,
+      "avg_latency_ms": 302,
+      "streak_days": 0
+    },
+    "https://co.yes.vg": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 427,
       "streak_days": 0
     },
     "https://api.openai-up.com": {
@@ -682,28 +674,28 @@
       "avg_latency_ms": 497,
       "streak_days": 0
     },
-    "https://co.yes.vg": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 432,
-      "streak_days": 0
-    },
     "https://www.findcg.com": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 530,
+      "avg_latency_ms": 542,
       "streak_days": 0
     },
-    "https://xeduapi.com": {
+    "https://api.wlai.vip": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 705,
+      "avg_latency_ms": 528,
+      "streak_days": 0
+    },
+    "https://infai.cc": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 720,
       "streak_days": 0
     },
     "https://zerocode.sbs": {
@@ -711,7 +703,15 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 527,
+      "avg_latency_ms": 520,
+      "streak_days": 0
+    },
+    "https://xeduapi.com": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 709,
       "streak_days": 0
     },
     "https://api.pumpkinaigc.online": {
@@ -727,23 +727,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 1036,
-      "streak_days": 0
-    },
-    "https://api.ai-gaochao.cn": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 822,
-      "streak_days": 0
-    },
-    "https://api.moonshot.cn": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 96.7,
-      "avg_latency_ms": 1687,
+      "avg_latency_ms": 1098,
       "streak_days": 0
     },
     "https://anyrouter.top": {
@@ -751,7 +735,23 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 1304,
+      "avg_latency_ms": 1280,
+      "streak_days": 0
+    },
+    "https://api.ai-gaochao.cn": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 819,
+      "streak_days": 0
+    },
+    "https://api.moonshot.cn": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 96.7,
+      "avg_latency_ms": 1704,
       "streak_days": 0
     },
     "https://api.nio.gs": {
@@ -759,23 +759,23 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 693,
+      "avg_latency_ms": 691,
       "streak_days": 0
     },
     "https://new.xjai.cc": {
-      "samples": 26,
+      "samples": 25,
       "window_days": 30,
-      "uptime_pct": 86.7,
-      "api_uptime_pct": 86.7,
-      "avg_latency_ms": 167,
+      "uptime_pct": 83.3,
+      "api_uptime_pct": 83.3,
+      "avg_latency_ms": 163,
       "streak_days": 0
     },
     "https://go.sbgpt.site": {
-      "samples": 26,
+      "samples": 25,
       "window_days": 30,
-      "uptime_pct": 86.7,
-      "api_uptime_pct": 86.7,
-      "avg_latency_ms": 175,
+      "uptime_pct": 83.3,
+      "api_uptime_pct": 83.3,
+      "avg_latency_ms": 168,
       "streak_days": 0
     },
     "https://open.xiaojingai.com": {
@@ -783,7 +783,7 @@
       "window_days": 30,
       "uptime_pct": 93.3,
       "api_uptime_pct": 93.3,
-      "avg_latency_ms": 661,
+      "avg_latency_ms": 692,
       "streak_days": 0
     },
     "https://new.yunai.link": {
@@ -791,7 +791,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 96.7,
-      "avg_latency_ms": 216,
+      "avg_latency_ms": 215,
       "streak_days": 0
     },
     "https://www.closeai-asia.com": {
@@ -799,7 +799,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 165,
+      "avg_latency_ms": 167,
       "streak_days": 0
     },
     "https://www.requesty.ai": {
@@ -807,55 +807,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 171,
-      "streak_days": 0
-    },
-    "https://llmgateway.io": {
-      "samples": 28,
-      "window_days": 30,
-      "uptime_pct": 93.3,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 534,
-      "streak_days": 0
-    },
-    "https://ofox.ai": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 510,
-      "streak_days": 0
-    },
-    "https://ominigate.com": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 898,
-      "streak_days": 0
-    },
-    "https://poloapi.com": {
-      "samples": 28,
-      "window_days": 30,
-      "uptime_pct": 93.3,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 463,
-      "streak_days": 0
-    },
-    "https://www.ohmygpt.com": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 492,
-      "streak_days": 0
-    },
-    "https://apimart.ai": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 663,
+      "avg_latency_ms": 168,
       "streak_days": 0
     },
     "https://holysheep.ai": {
@@ -863,7 +815,55 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 438,
+      "avg_latency_ms": 417,
+      "streak_days": 0
+    },
+    "https://ofox.ai": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 507,
+      "streak_days": 0
+    },
+    "https://poloapi.com": {
+      "samples": 28,
+      "window_days": 30,
+      "uptime_pct": 93.3,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 465,
+      "streak_days": 0
+    },
+    "https://www.ohmygpt.com": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 484,
+      "streak_days": 0
+    },
+    "https://apimart.ai": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 652,
+      "streak_days": 0
+    },
+    "https://llmgateway.io": {
+      "samples": 28,
+      "window_days": 30,
+      "uptime_pct": 93.3,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 537,
+      "streak_days": 0
+    },
+    "https://ominigate.com": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 899,
       "streak_days": 0
     },
     "https://derouter.ai": {
@@ -871,23 +871,15 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 1243,
-      "streak_days": 0
-    },
-    "https://302.ai": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 1593,
+      "avg_latency_ms": 1245,
       "streak_days": 0
     },
     "https://deerapi.com": {
       "samples": 28,
       "window_days": 30,
       "uptime_pct": 93.3,
-      "api_uptime_pct": 86.7,
-      "avg_latency_ms": 679,
+      "api_uptime_pct": 90.0,
+      "avg_latency_ms": 672,
       "streak_days": 0
     },
     "https://aigateway.vercel.app": {
@@ -903,23 +895,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 145,
-      "streak_days": 0
-    },
-    "https://docs.apiyi.com": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 264,
-      "streak_days": 0
-    },
-    "https://megallm.io": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 375,
+      "avg_latency_ms": 143,
       "streak_days": 0
     },
     "https://apiyi.com": {
@@ -927,7 +903,23 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
+      "avg_latency_ms": 261,
+      "streak_days": 0
+    },
+    "https://docs.apiyi.com": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
       "avg_latency_ms": 262,
+      "streak_days": 0
+    },
+    "https://megallm.io": {
+      "samples": 28,
+      "window_days": 30,
+      "uptime_pct": 93.3,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 377,
       "streak_days": 0
     },
     "https://openrouter.ai": {
@@ -935,7 +927,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 417,
+      "avg_latency_ms": 406,
       "streak_days": 0
     },
     "https://poixe.com": {
@@ -943,7 +935,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 540,
+      "avg_latency_ms": 528,
       "streak_days": 0
     },
     "https://github.com/songquanpeng/one-api": {
@@ -951,7 +943,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 1243,
+      "avg_latency_ms": 1229,
       "streak_days": 0
     },
     "https://uiuiapi.com": {
@@ -959,7 +951,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 1248,
+      "avg_latency_ms": 1247,
       "streak_days": 0
     },
     "https://jiekou.ai": {
@@ -967,7 +959,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 2161,
+      "avg_latency_ms": 2196,
       "streak_days": 0
     },
     "https://www.right.codes": {
@@ -975,7 +967,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 595,
+      "avg_latency_ms": 605,
       "streak_days": 0
     },
     "https://github.com/QuantumNous/new-api": {
@@ -983,7 +975,7 @@
       "window_days": 30,
       "uptime_pct": 93.3,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 759,
+      "avg_latency_ms": 747,
       "streak_days": 0
     },
     "https://github.com/Calcium-Ion/new-api": {
@@ -991,15 +983,15 @@
       "window_days": 30,
       "uptime_pct": 93.3,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 826,
+      "avg_latency_ms": 814,
       "streak_days": 0
     },
     "https://quickrouter.ai": {
-      "samples": 26,
+      "samples": 25,
       "window_days": 30,
-      "uptime_pct": 86.7,
+      "uptime_pct": 83.3,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 495,
+      "avg_latency_ms": 499,
       "streak_days": 0
     },
     "https://helicone.ai": {
@@ -1007,7 +999,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 329,
+      "avg_latency_ms": 320,
       "streak_days": 0
     },
     "https://www.aimlapi.com": {
@@ -1015,7 +1007,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 796,
+      "avg_latency_ms": 795,
       "streak_days": 0
     },
     "https://aigc369.com": {
@@ -1023,7 +1015,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 1231,
+      "avg_latency_ms": 1208,
       "streak_days": 0
     },
     "https://hyperbolic.xyz": {
@@ -1031,7 +1023,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 352,
+      "avg_latency_ms": 336,
       "streak_days": 0
     },
     "https://www.aicodemirror.com": {
@@ -1039,7 +1031,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 887,
+      "avg_latency_ms": 881,
       "streak_days": 0
     },
     "https://www.apicore.ai": {
@@ -1047,15 +1039,15 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 222,
+      "avg_latency_ms": 226,
       "streak_days": 0
     },
     "https://featherless.ai": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
-      "api_uptime_pct": 76.7,
-      "avg_latency_ms": 193,
+      "api_uptime_pct": 80.0,
+      "avg_latency_ms": 190,
       "streak_days": 0
     },
     "https://groq.com": {
@@ -1063,7 +1055,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 407,
+      "avg_latency_ms": 396,
       "streak_days": 0
     },
     "https://apid.aaife.cn": {
@@ -1071,7 +1063,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 1546,
+      "avg_latency_ms": 1566,
       "streak_days": 0
     },
     "https://github.com/helicone/helicone": {
@@ -1079,7 +1071,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 1055,
+      "avg_latency_ms": 1046,
       "streak_days": 0
     },
     "https://deepinfra.com": {
@@ -1087,31 +1079,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 186,
-      "streak_days": 0
-    },
-    "https://www.replicate.com": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 571,
-      "streak_days": 0
-    },
-    "https://www.cerebras.ai": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 521,
-      "streak_days": 0
-    },
-    "https://fireworks.ai": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 597,
+      "avg_latency_ms": 181,
       "streak_days": 0
     },
     "https://cortex.so": {
@@ -1119,7 +1087,23 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 419,
+      "avg_latency_ms": 414,
+      "streak_days": 0
+    },
+    "https://www.replicate.com": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 568,
+      "streak_days": 0
+    },
+    "https://fireworks.ai": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 593,
       "streak_days": 0
     },
     "https://github.com/1Panel-dev/MaxKB": {
@@ -1127,7 +1111,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 1001,
+      "avg_latency_ms": 997,
       "streak_days": 0
     },
     "https://ccfly.codes": {
@@ -1135,7 +1119,15 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 291,
+      "avg_latency_ms": 293,
+      "streak_days": 0
+    },
+    "https://www.cerebras.ai": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 512,
       "streak_days": 0
     },
     "https://github.com/berriai/litellm": {
@@ -1143,7 +1135,15 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 1084,
+      "avg_latency_ms": 1082,
+      "streak_days": 0
+    },
+    "https://302.ai": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 1594,
       "streak_days": 0
     },
     "https://opencat.app": {
@@ -1151,7 +1151,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 387,
+      "avg_latency_ms": 380,
       "streak_days": 0
     },
     "https://chatbox.ai": {
@@ -1159,7 +1159,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 523,
+      "avg_latency_ms": 505,
       "streak_days": 0
     },
     "https://lorka.ai": {
@@ -1167,15 +1167,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 1038,
-      "streak_days": 0
-    },
-    "https://www.anyscale.com": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 465,
+      "avg_latency_ms": 1036,
       "streak_days": 0
     },
     "https://deepbricks.ai": {
@@ -1183,15 +1175,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 403,
-      "streak_days": 0
-    },
-    "https://github.com/langgenius/dify": {
-      "samples": 28,
-      "window_days": 30,
-      "uptime_pct": 93.3,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 755,
+      "avg_latency_ms": 400,
       "streak_days": 0
     },
     "https://together.ai": {
@@ -1199,15 +1183,15 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 600,
+      "avg_latency_ms": 587,
       "streak_days": 0
     },
-    "https://github.com/langfuse/langfuse": {
+    "https://www.anyscale.com": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 1121,
+      "avg_latency_ms": 458,
       "streak_days": 0
     },
     "https://github.com/labring/FastGPT": {
@@ -1215,7 +1199,23 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 939,
+      "avg_latency_ms": 927,
+      "streak_days": 0
+    },
+    "https://github.com/langgenius/dify": {
+      "samples": 28,
+      "window_days": 30,
+      "uptime_pct": 93.3,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 746,
+      "streak_days": 0
+    },
+    "https://github.com/langfuse/langfuse": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 1117,
       "streak_days": 0
     },
     "https://yikeapi.com": {
@@ -1223,7 +1223,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 1538,
+      "avg_latency_ms": 1542,
       "streak_days": 0
     },
     "https://siliconflow.cn": {
@@ -1231,31 +1231,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 2174,
-      "streak_days": 0
-    },
-    "https://langdb.ai": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 175,
-      "streak_days": 0
-    },
-    "https://openpipe.ai": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 209,
-      "streak_days": 0
-    },
-    "https://modal.com": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 319,
+      "avg_latency_ms": 2201,
       "streak_days": 0
     },
     "https://cubence.com": {
@@ -1263,31 +1239,15 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 243,
+      "avg_latency_ms": 244,
       "streak_days": 0
     },
-    "https://www.siliconflow.com": {
+    "https://langdb.ai": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 330,
-      "streak_days": 0
-    },
-    "https://ai.cloudflare.com/gateway": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 677,
-      "streak_days": 0
-    },
-    "https://kluster.ai": {
-      "samples": 28,
-      "window_days": 30,
-      "uptime_pct": 93.3,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 416,
+      "avg_latency_ms": 177,
       "streak_days": 0
     },
     "https://oaipro.com": {
@@ -1295,55 +1255,39 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 310,
+      "avg_latency_ms": 303,
       "streak_days": 0
     },
-    "https://novita.ai": {
+    "https://openpipe.ai": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 551,
+      "avg_latency_ms": 203,
       "streak_days": 0
     },
-    "https://litellm.ai": {
+    "https://www.siliconflow.com": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 770,
+      "avg_latency_ms": 320,
       "streak_days": 0
     },
-    "https://github.com/VoltAgent/voltagent": {
+    "https://kluster.ai": {
+      "samples": 27,
+      "window_days": 30,
+      "uptime_pct": 90.0,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 415,
+      "streak_days": 0
+    },
+    "https://ai.cloudflare.com/gateway": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 1087,
-      "streak_days": 0
-    },
-    "https://github.com/Portkey-Ai/gateway": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 1000,
-      "streak_days": 0
-    },
-    "https://codesome.ai": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 892,
-      "streak_days": 0
-    },
-    "https://mixrai.com": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 1045,
+      "avg_latency_ms": 688,
       "streak_days": 0
     },
     "https://88code.ai": {
@@ -1351,23 +1295,63 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 884,
+      "avg_latency_ms": 874,
       "streak_days": 0
     },
-    "https://dify.ai": {
+    "https://modal.com": {
+      "samples": 28,
+      "window_days": 30,
+      "uptime_pct": 93.3,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 319,
+      "streak_days": 0
+    },
+    "https://novita.ai": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 289,
+      "avg_latency_ms": 542,
       "streak_days": 0
     },
-    "https://turnaround.ai": {
+    "https://mixrai.com": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 207,
+      "avg_latency_ms": 1047,
+      "streak_days": 0
+    },
+    "https://codesome.ai": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 894,
+      "streak_days": 0
+    },
+    "https://github.com/Portkey-Ai/gateway": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 994,
+      "streak_days": 0
+    },
+    "https://github.com/VoltAgent/voltagent": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 1083,
+      "streak_days": 0
+    },
+    "https://litellm.ai": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 758,
       "streak_days": 0
     },
     "https://lambda.ai": {
@@ -1375,31 +1359,15 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 138,
+      "avg_latency_ms": 135,
       "streak_days": 0
     },
-    "https://cursorai.art": {
+    "https://dify.ai": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 179,
-      "streak_days": 0
-    },
-    "https://reka.ai": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 1109,
-      "streak_days": 0
-    },
-    "https://portkey.ai": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 208,
+      "avg_latency_ms": 286,
       "streak_days": 0
     },
     "https://aiclaude.site": {
@@ -1407,127 +1375,15 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 351,
+      "avg_latency_ms": 361,
       "streak_days": 0
     },
-    "https://nextweb.fun": {
-      "samples": 15,
-      "window_days": 30,
-      "uptime_pct": 50.0,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 689,
-      "streak_days": 0
-    },
-    "https://api.ezchat.top": {
+    "https://portkey.ai": {
       "samples": 29,
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 323,
-      "streak_days": 0
-    },
-    "https://gptgod.online": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 296,
-      "streak_days": 0
-    },
-    "https://octoml.ai": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 505,
-      "streak_days": 0
-    },
-    "https://octo.ai": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 516,
-      "streak_days": 0
-    },
-    "https://api.chat2api.com": {
-      "samples": 20,
-      "window_days": 30,
-      "uptime_pct": 66.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 677,
-      "streak_days": 0
-    },
-    "https://chat2api.com": {
-      "samples": 20,
-      "window_days": 30,
-      "uptime_pct": 66.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 652,
-      "streak_days": 0
-    },
-    "https://kodbase.com": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 667,
-      "streak_days": 0
-    },
-    "https://api.tomchat.fun": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 822,
-      "streak_days": 0
-    },
-    "https://aigocode.com": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 442,
-      "streak_days": 0
-    },
-    "https://api.aihao123.cn": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 892,
-      "streak_days": 0
-    },
-    "https://portal.qiniu.com/ai": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 960,
-      "streak_days": 0
-    },
-    "https://api.pearktrue.cn": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 1489,
-      "streak_days": 0
-    },
-    "https://foxaigc.com": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 989,
-      "streak_days": 0
-    },
-    "https://lingyaai.com": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 817,
+      "avg_latency_ms": 201,
       "streak_days": 0
     },
     "https://aigc2d.com": {
@@ -1535,7 +1391,127 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 411,
+      "avg_latency_ms": 405,
+      "streak_days": 0
+    },
+    "https://reka.ai": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 1107,
+      "streak_days": 0
+    },
+    "https://cursorai.art": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 181,
+      "streak_days": 0
+    },
+    "https://gptgod.online": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 294,
+      "streak_days": 0
+    },
+    "https://aigocode.com": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 437,
+      "streak_days": 0
+    },
+    "https://turnaround.ai": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 203,
+      "streak_days": 0
+    },
+    "https://api.ezchat.top": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 318,
+      "streak_days": 0
+    },
+    "https://octo.ai": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 504,
+      "streak_days": 0
+    },
+    "https://octoml.ai": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 497,
+      "streak_days": 0
+    },
+    "https://api.chat2api.com": {
+      "samples": 19,
+      "window_days": 30,
+      "uptime_pct": 63.3,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 680,
+      "streak_days": 0
+    },
+    "https://kodbase.com": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 657,
+      "streak_days": 0
+    },
+    "https://chat2api.com": {
+      "samples": 19,
+      "window_days": 30,
+      "uptime_pct": 63.3,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 652,
+      "streak_days": 0
+    },
+    "https://api.aihao123.cn": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 906,
+      "streak_days": 0
+    },
+    "https://lingyaai.com": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 820,
+      "streak_days": 0
+    },
+    "https://api.tomchat.fun": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 817,
+      "streak_days": 0
+    },
+    "https://foxaigc.com": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 994,
       "streak_days": 0
     },
     "https://open.bigmodel.cn": {
@@ -1543,7 +1519,31 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 1241,
+      "avg_latency_ms": 1247,
+      "streak_days": 0
+    },
+    "https://portal.qiniu.com/ai": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 968,
+      "streak_days": 0
+    },
+    "https://api.pearktrue.cn": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 1498,
+      "streak_days": 0
+    },
+    "https://nextweb.fun": {
+      "samples": 15,
+      "window_days": 30,
+      "uptime_pct": 50.0,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 700,
       "streak_days": 0
     },
     "https://runpod.io": {
@@ -1551,7 +1551,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 452,
+      "avg_latency_ms": 445,
       "streak_days": 0
     },
     "https://www.datarobot.com": {
@@ -1559,7 +1559,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 156,
+      "avg_latency_ms": 152,
       "streak_days": 0
     },
     "https://www.langchain.com": {
@@ -1567,87 +1567,7 @@
       "window_days": 30,
       "uptime_pct": 96.7,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 215,
-      "streak_days": 0
-    },
-    "https://lepton.ai": {
-      "samples": 28,
-      "window_days": 30,
-      "uptime_pct": 93.3,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 356,
-      "streak_days": 0
-    },
-    "https://topjl.cn": {
-      "samples": 20,
-      "window_days": 30,
-      "uptime_pct": 66.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 2417,
-      "streak_days": 0
-    },
-    "https://api.topjl.cn": {
-      "samples": 20,
-      "window_days": 30,
-      "uptime_pct": 66.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 2415,
-      "streak_days": 0
-    },
-    "https://aiproxy.io": {
-      "samples": 13,
-      "window_days": 30,
-      "uptime_pct": 43.3,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 175,
-      "streak_days": 0
-    },
-    "https://nextweb.dev": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 195,
-      "streak_days": 0
-    },
-    "https://ionet.com": {
-      "samples": 28,
-      "window_days": 30,
-      "uptime_pct": 93.3,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 201,
-      "streak_days": 0
-    },
-    "https://token-ai.com": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 193,
-      "streak_days": 0
-    },
-    "https://chatgptid.com": {
-      "samples": 27,
-      "window_days": 30,
-      "uptime_pct": 90.0,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 202,
-      "streak_days": 0
-    },
-    "https://chataigc.com": {
-      "samples": 29,
-      "window_days": 30,
-      "uptime_pct": 96.7,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 340,
-      "streak_days": 0
-    },
-    "https://ai365.vip": {
-      "samples": 7,
-      "window_days": 30,
-      "uptime_pct": 23.3,
-      "api_uptime_pct": 0.0,
-      "avg_latency_ms": 1187,
+      "avg_latency_ms": 210,
       "streak_days": 0
     },
     "https://writer.com/api": {
@@ -1656,6 +1576,86 @@
       "uptime_pct": 3.3,
       "api_uptime_pct": 0.0,
       "avg_latency_ms": 555,
+      "streak_days": 0
+    },
+    "https://topjl.cn": {
+      "samples": 20,
+      "window_days": 30,
+      "uptime_pct": 66.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 2640,
+      "streak_days": 0
+    },
+    "https://api.topjl.cn": {
+      "samples": 20,
+      "window_days": 30,
+      "uptime_pct": 66.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 2408,
+      "streak_days": 0
+    },
+    "https://chatgptid.com": {
+      "samples": 27,
+      "window_days": 30,
+      "uptime_pct": 90.0,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 194,
+      "streak_days": 0
+    },
+    "https://chataigc.com": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 332,
+      "streak_days": 0
+    },
+    "https://lepton.ai": {
+      "samples": 28,
+      "window_days": 30,
+      "uptime_pct": 93.3,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 345,
+      "streak_days": 0
+    },
+    "https://token-ai.com": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 191,
+      "streak_days": 0
+    },
+    "https://aiproxy.io": {
+      "samples": 12,
+      "window_days": 30,
+      "uptime_pct": 40.0,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 174,
+      "streak_days": 0
+    },
+    "https://ionet.com": {
+      "samples": 28,
+      "window_days": 30,
+      "uptime_pct": 93.3,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 196,
+      "streak_days": 0
+    },
+    "https://nextweb.dev": {
+      "samples": 29,
+      "window_days": 30,
+      "uptime_pct": 96.7,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 192,
+      "streak_days": 0
+    },
+    "https://ai365.vip": {
+      "samples": 6,
+      "window_days": 30,
+      "uptime_pct": 20.0,
+      "api_uptime_pct": 0.0,
+      "avg_latency_ms": 1130,
       "streak_days": 0
     },
     "https://linkapi.ai": {
@@ -1667,27 +1667,27 @@
       "streak_days": 0
     },
     "https://www.c-cbd.com": {
-      "samples": 26,
+      "samples": 27,
       "window_days": 30,
-      "uptime_pct": 86.7,
+      "uptime_pct": 90.0,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 408,
+      "avg_latency_ms": 402,
       "streak_days": 0
     },
     "https://api.aikeji.vip": {
-      "samples": 25,
+      "samples": 26,
       "window_days": 30,
-      "uptime_pct": 83.3,
-      "api_uptime_pct": 83.3,
-      "avg_latency_ms": 194,
+      "uptime_pct": 86.7,
+      "api_uptime_pct": 86.7,
+      "avg_latency_ms": 196,
       "streak_days": 0
     },
     "https://api.302ai.com": {
-      "samples": 23,
+      "samples": 24,
       "window_days": 30,
-      "uptime_pct": 76.7,
-      "api_uptime_pct": 76.7,
-      "avg_latency_ms": 801,
+      "uptime_pct": 80.0,
+      "api_uptime_pct": 80.0,
+      "avg_latency_ms": 806,
       "streak_days": 0
     },
     "https://gptapi.us": {
@@ -1707,11 +1707,11 @@
       "streak_days": 0
     },
     "https://oneai.icu": {
-      "samples": 11,
+      "samples": 12,
       "window_days": 30,
-      "uptime_pct": 36.7,
+      "uptime_pct": 40.0,
       "api_uptime_pct": 0.0,
-      "avg_latency_ms": 441,
+      "avg_latency_ms": 459,
       "streak_days": 0
     },
     "https://apizhongzhuan.com": {
@@ -1728,6 +1728,14 @@
       "uptime_pct": 3.3,
       "api_uptime_pct": 3.3,
       "avg_latency_ms": 133,
+      "streak_days": 0
+    },
+    "https://api.deepseek.com": {
+      "samples": 1,
+      "window_days": 30,
+      "uptime_pct": 3.3,
+      "api_uptime_pct": 3.3,
+      "avg_latency_ms": 361,
       "streak_days": 0
     }
   }
